@@ -17,6 +17,23 @@ namespace OOP {
         // protected : chi cho truy cap trong pham vi lop hoac lop ke thua
         // internal : chi truy cap duoc trong cung assembly 
 
+        // Thuộc tính gần giống như các thành viên dữ liệu các trường dữ liệu 
+        // các thuộc tính là cơ chế để truy câpj vào dữ liệu 
+        // Khai báo thuộc tính 
+        public int SatThuong {
+            set {
+                // dc thi hanh khi phep gan
+                Console.WriteLine(value);
+            }
+
+            get {
+                // dc thi hanh thuc hien lenh truy cap
+             
+                return 10;
+            }
+        }
+
+
         public string name = "ten vu khi";
 
         int satthuong = 0;
