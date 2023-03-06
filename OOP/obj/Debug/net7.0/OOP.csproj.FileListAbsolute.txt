@@ -1,0 +1,15 @@
+C:\LDCC C#\OOP\bin\Debug\net7.0\OOP.exe
+C:\LDCC C#\OOP\bin\Debug\net7.0\OOP.deps.json
+C:\LDCC C#\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+C:\LDCC C#\OOP\bin\Debug\net7.0\OOP.dll
+C:\LDCC C#\OOP\bin\Debug\net7.0\OOP.pdb
+C:\LDCC C#\OOP\obj\Debug\net7.0\OOP.csproj.AssemblyReference.cache
+C:\LDCC C#\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\LDCC C#\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+C:\LDCC C#\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+C:\LDCC C#\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+C:\LDCC C#\OOP\obj\Debug\net7.0\OOP.dll
+C:\LDCC C#\OOP\obj\Debug\net7.0\refint\OOP.dll
+C:\LDCC C#\OOP\obj\Debug\net7.0\OOP.pdb
+C:\LDCC C#\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+C:\LDCC C#\OOP\obj\Debug\net7.0\ref\OOP.dll
