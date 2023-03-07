@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lear-C-LDCC\\Day\\Day.csproj": {}
+    "C:\\Lear-C-LDCC\\Day3_TinhKeThua\\Day3_TinhKeThua.csproj": {}
   },
   "projects": {
-    "C:\\Lear-C-LDCC\\Day\\Day.csproj": {
+    "C:\\Lear-C-LDCC\\Day3_TinhKeThua\\Day3_TinhKeThua.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lear-C-LDCC\\Day\\Day.csproj",
-        "projectName": "Day",
-        "projectPath": "C:\\Lear-C-LDCC\\Day\\Day.csproj",
+        "projectUniqueName": "C:\\Lear-C-LDCC\\Day3_TinhKeThua\\Day3_TinhKeThua.csproj",
+        "projectName": "Day3_TinhKeThua",
+        "projectPath": "C:\\Lear-C-LDCC\\Day3_TinhKeThua\\Day3_TinhKeThua.csproj",
         "packagesPath": "C:\\Users\\LDCC U1\\.nuget\\packages\\",
-        "outputPath": "C:\\Lear-C-LDCC\\Day\\obj\\",
+        "outputPath": "C:\\Lear-C-LDCC\\Day3_TinhKeThua\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LDCC U1\\AppData\\Roaming\\NuGet\\NuGet.Config",

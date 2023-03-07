@@ -13,3 +13,18 @@ C:\LDCC C#\Day\obj\Debug\net7.0\refint\Day.dll
 C:\LDCC C#\Day\obj\Debug\net7.0\Day.pdb
 C:\LDCC C#\Day\obj\Debug\net7.0\Day.genruntimeconfig.cache
 C:\LDCC C#\Day\obj\Debug\net7.0\ref\Day.dll
+C:\Lear-C-LDCC\Day\bin\Debug\net7.0\Day.exe
+C:\Lear-C-LDCC\Day\bin\Debug\net7.0\Day.deps.json
+C:\Lear-C-LDCC\Day\bin\Debug\net7.0\Day.runtimeconfig.json
+C:\Lear-C-LDCC\Day\bin\Debug\net7.0\Day.dll
+C:\Lear-C-LDCC\Day\bin\Debug\net7.0\Day.pdb
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\Day.csproj.AssemblyReference.cache
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\Day.AssemblyInfoInputs.cache
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\Day.AssemblyInfo.cs
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\Day.csproj.CoreCompileInputs.cache
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\Day.dll
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\refint\Day.dll
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\Day.pdb
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\Day.genruntimeconfig.cache
+C:\Lear-C-LDCC\Day\obj\Debug\net7.0\ref\Day.dll

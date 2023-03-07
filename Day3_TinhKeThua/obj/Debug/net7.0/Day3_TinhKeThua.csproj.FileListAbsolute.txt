@@ -1,0 +1,15 @@
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\Day3_TinhKeThua.csproj.AssemblyReference.cache
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\Day3_TinhKeThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\Day3_TinhKeThua.AssemblyInfoInputs.cache
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\Day3_TinhKeThua.AssemblyInfo.cs
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\Day3_TinhKeThua.csproj.CoreCompileInputs.cache
+C:\Lear-C-LDCC\Day3_TinhKeThua\bin\Debug\net7.0\Day3_TinhKeThua.exe
+C:\Lear-C-LDCC\Day3_TinhKeThua\bin\Debug\net7.0\Day3_TinhKeThua.deps.json
+C:\Lear-C-LDCC\Day3_TinhKeThua\bin\Debug\net7.0\Day3_TinhKeThua.runtimeconfig.json
+C:\Lear-C-LDCC\Day3_TinhKeThua\bin\Debug\net7.0\Day3_TinhKeThua.dll
+C:\Lear-C-LDCC\Day3_TinhKeThua\bin\Debug\net7.0\Day3_TinhKeThua.pdb
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\Day3_TinhKeThua.dll
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\refint\Day3_TinhKeThua.dll
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\Day3_TinhKeThua.pdb
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\Day3_TinhKeThua.genruntimeconfig.cache
+C:\Lear-C-LDCC\Day3_TinhKeThua\obj\Debug\net7.0\ref\Day3_TinhKeThua.dll
