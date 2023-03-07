@@ -32,7 +32,22 @@ Khi khai báo các lớp trong lớp kế thừa ta có thể khai báo một ph
 - Hoạt động của các phương thức khởi tạo( Constructor )
 
 trong lớp cha ta khai báo phương thức nhưng trong lớp kế thừa k khai báo gì thì nó sử dụng phương thức khởi tạo mặc định
- 
+
+- Chuyển kiểu, Ép kiểu trong lớp kế thừa 
+
+Một biến có kiểu là lớp cơ sở thì có thể gán những giá trị được khởi tạo ra từ lớp kế thừa 
+và ngược lại một biến từ lớp kế thừa k gán lại được lớp cơ sở 
+
+// Namespace và partial 
+
+- Khai báo và nạp vào component khác giống như react: tạo component mới khai báo namespace nếu muốn sử dụng thì using Tên_namesapce
+
+khai báo ở dưới thì Tên_class.Phương thức : vd=> Name.Main()
+
+- Bên trong namespace ngoài khai báo các thành phần như class struct, emum, interface .. thì nó cũng cho khai báo các namespace con trong nó 
+- Để truy cập vào namespace con thì chúng ta chấm từng cấp từ namespace cha-> phương thức
+- Nếu muốn khai báo chia nhỏ ra thành nhiều file mã nguồn thì chúng ta khai báo lớp chúng ta cho từ khóa partail trc từ class thì chúng ta có thể hoàn toàn chia nhỏ cái định nghĩa lớp này trên nhiều file code 
+- Khai báo một lớp ở bên trong một lớp khác 
 
 
 

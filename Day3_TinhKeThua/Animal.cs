@@ -12,7 +12,7 @@ namespace Day3_TinhKeThua {
     }
 
     public Animal( string abc) {
-        System.Console.WriteLine($"Khoi tao Animal 2 {abc}");
+        System.Console.WriteLine($"Khoi tao Animal 2 {name}");
     }
 
 
@@ -57,7 +57,7 @@ namespace Day3_TinhKeThua {
         }
         // Muon phuong thuc khoi tao cua lop ke thua thi hanh thi trc tiên phải thi hành một phương thức khởi tạo nào đó của lớp cha
         // dùng :base
-        public Cat() :base("abc") {
+        public Cat( string name) :base(name) {
             this.Legs = 4;
             this.Weight = 300;
             this.Food = "Hat";

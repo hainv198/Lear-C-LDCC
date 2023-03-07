@@ -19,6 +19,15 @@ namespace Day3_TinhKeThua {
         static void Main() {
             System.Console.WriteLine("haimv");
 
+            // sử dụng partial
+            SanPham.Product iphone = new SanPham.Product();
+            iphone.name = "IPhone 15 promax";
+            iphone.price = 15000;
+
+            System.Console.WriteLine(iphone.GetInfo());
+
+
+
             Cat Van = new Cat();
         //    Van.Eat();
         //    Van.ShowInfo();
