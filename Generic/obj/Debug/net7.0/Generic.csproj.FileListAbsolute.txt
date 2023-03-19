@@ -1,0 +1,15 @@
+C:\Lear-C-LDCC\Generic\bin\Debug\net7.0\Generic.exe
+C:\Lear-C-LDCC\Generic\bin\Debug\net7.0\Generic.deps.json
+C:\Lear-C-LDCC\Generic\bin\Debug\net7.0\Generic.runtimeconfig.json
+C:\Lear-C-LDCC\Generic\bin\Debug\net7.0\Generic.dll
+C:\Lear-C-LDCC\Generic\bin\Debug\net7.0\Generic.pdb
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\Generic.csproj.AssemblyReference.cache
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\Generic.AssemblyInfoInputs.cache
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\Generic.AssemblyInfo.cs
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\Generic.csproj.CoreCompileInputs.cache
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\Generic.dll
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\refint\Generic.dll
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\Generic.pdb
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\Generic.genruntimeconfig.cache
+C:\Lear-C-LDCC\Generic\obj\Debug\net7.0\ref\Generic.dll

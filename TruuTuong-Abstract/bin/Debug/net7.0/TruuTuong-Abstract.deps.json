@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TruuTuong-Abstract/1.0.0": {
+        "runtime": {
+          "TruuTuong-Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TruuTuong-Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

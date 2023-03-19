@@ -49,5 +49,16 @@ khai báo ở dưới thì Tên_class.Phương thức : vd=> Name.Main()
 - Nếu muốn khai báo chia nhỏ ra thành nhiều file mã nguồn thì chúng ta khai báo lớp chúng ta cho từ khóa partail trc từ class thì chúng ta có thể hoàn toàn chia nhỏ cái định nghĩa lớp này trên nhiều file code 
 - Khai báo một lớp ở bên trong một lớp khác 
 
+// Generic 
 
 
+// Phương thức ảo (Virtual method), lớp trừu tượng (abstract) và giao diện interface
+
+- Phương thức ảo là phương thức đc định nghĩa trong lớp cơ sở và đc ghi đè trong lớp kế thừa 
+
+- trong lop co so phai cho biet phuong thuc nao la phuong thuc ao
+
+- lớp trừu tượng (abstract) không được dùng để tạo ra các đối tượng, làm cơ sở cho lớp kế thừa 
+
+
+- interface : 

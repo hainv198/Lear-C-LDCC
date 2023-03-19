@@ -1,0 +1,15 @@
+C:\Lear-C-LDCC\TruuTuong-Abstract\bin\Debug\net7.0\TruuTuong-Abstract.exe
+C:\Lear-C-LDCC\TruuTuong-Abstract\bin\Debug\net7.0\TruuTuong-Abstract.deps.json
+C:\Lear-C-LDCC\TruuTuong-Abstract\bin\Debug\net7.0\TruuTuong-Abstract.runtimeconfig.json
+C:\Lear-C-LDCC\TruuTuong-Abstract\bin\Debug\net7.0\TruuTuong-Abstract.dll
+C:\Lear-C-LDCC\TruuTuong-Abstract\bin\Debug\net7.0\TruuTuong-Abstract.pdb
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\TruuTuong-Abstract.csproj.AssemblyReference.cache
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\TruuTuong-Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\TruuTuong-Abstract.AssemblyInfoInputs.cache
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\TruuTuong-Abstract.AssemblyInfo.cs
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\TruuTuong-Abstract.csproj.CoreCompileInputs.cache
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\TruuTuong-Abstract.dll
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\refint\TruuTuong-Abstract.dll
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\TruuTuong-Abstract.pdb
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\TruuTuong-Abstract.genruntimeconfig.cache
+C:\Lear-C-LDCC\TruuTuong-Abstract\obj\Debug\net7.0\ref\TruuTuong-Abstract.dll
