@@ -1,0 +1,15 @@
+C:\Lear-C-LDCC\C10\bin\Debug\net7.0\C10.exe
+C:\Lear-C-LDCC\C10\bin\Debug\net7.0\C10.deps.json
+C:\Lear-C-LDCC\C10\bin\Debug\net7.0\C10.runtimeconfig.json
+C:\Lear-C-LDCC\C10\bin\Debug\net7.0\C10.dll
+C:\Lear-C-LDCC\C10\bin\Debug\net7.0\C10.pdb
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\C10.csproj.AssemblyReference.cache
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\C10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\C10.AssemblyInfoInputs.cache
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\C10.AssemblyInfo.cs
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\C10.csproj.CoreCompileInputs.cache
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\C10.dll
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\refint\C10.dll
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\C10.pdb
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\C10.genruntimeconfig.cache
+C:\Lear-C-LDCC\C10\obj\Debug\net7.0\ref\C10.dll

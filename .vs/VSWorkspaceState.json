@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\C10",
+    "\\Day"
   ],
-  "SelectedNode": "\\LDCC C#.sln",
+  "SelectedNode": "\\C10\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
